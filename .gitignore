@@ -11,10 +11,6 @@ test/
 
 # Ignore dataset and output files
 dataset/
-outputs/
-*.mp4
-*.jpg
-*.png
 
 # Ignore virtual environment
 venv/
